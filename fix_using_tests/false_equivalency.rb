@@ -1,4 +1,4 @@
-# don't forget to add: require 'pry'
+# don't forget to add:
 
 
 def get_user_input
